@@ -1,5 +1,5 @@
 {
-    "type": "object",
+    "type": "customObject",
     "title": "Item Object",
     "required": true,
     "additionalProperties": false,
@@ -22,7 +22,7 @@
             "required": true
         },
         "info": {
-            "type": "object",
+            "type": "customObject",
             "name": "Information",
             "properties": {
                 "phone": {
