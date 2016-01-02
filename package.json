@@ -3,7 +3,7 @@
     "version": "0.2.1",
     "repository": {
         "type": "git",
-        "url": "git://github.com/rodikh/angular-json-editor.git"
+        "url": "git://github.com/CalRobert/angular-json-editor.git"
     },
     "main": "dist/angular-json-editor.js",
     "devDependencies": {

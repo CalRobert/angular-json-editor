@@ -2,6 +2,7 @@
 /bower_components
 /build
 /node_modules
+/dist
 
 [Tt]humbs.db
 *.DS_Store
