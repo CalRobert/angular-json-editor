@@ -20,7 +20,7 @@
     "node_modules"
   ],
   "dependencies": {
-    "json-editor": "https://github.com/CalRobert/json-editor.git#6b7ae188dd90c39abba7abcf9318a56d0bee0e8b",
+    "json-editor": "https://github.com/CalRobert/json-editor.git#7ae6f",
     "angular": "1.*"
   }
 }
